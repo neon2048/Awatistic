@@ -1,0 +1,18 @@
+# loop head
+blo 5
+blo 0
+
+# print function
+lbl 1
+blo "Jelly Hoshiumi\n"
+srn 15
+prn
+
+# loop tail
+blo 1
+add
+lss
+jmp 1
+
+# after loop, exit
+trm

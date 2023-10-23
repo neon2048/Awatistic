@@ -1,0 +1,12 @@
+blo ' ' # space
+blo 'y'
+blo 'L'
+blo 'L'
+blo 'e'
+blo 'j' # yo
+srn 6
+dpl
+dpl
+dpl
+srn 4
+prn # now print
